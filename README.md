@@ -17,4 +17,8 @@ https://event.on24.com/eventRegistration/console/apollox/mainEvent?&eventid=4741
 2023 Mass Spec Summer School: 
 https://youtube.com/playlist?list=PL24c3gIB4-uHQzgJv7ep2B7vfYGjLMUm5&si=shKIJ2HjU8sGRwxi
 
+Mass Spectrometry Training Programme: 
+https://youtu.be/xTNTen6OUVs?si=QI0u6Ry2nK_Sp-8S
+
+
 
