@@ -27,3 +27,5 @@ https://www.bilibili.com/video/BV1mP411y7xZ/
 安捷伦GCMS数据处理，气质数据批量检索，masshunter定量软件如何检索GCMS数据的化合物？未知化合物分析软件的使用
 https://www.bilibili.com/video/BV1zdpieDENV/
 
+
+2023 Mass Spec Summer School: https://youtube.com/playlist?list=PL24c3gIB4-uHQzgJv7ep2B7vfYGjLMUm5&si=7t6tfugKorZkqHbM
