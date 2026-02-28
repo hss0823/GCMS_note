@@ -21,4 +21,9 @@ Mass Spectrometry Training Programme:
 https://youtu.be/xTNTen6OUVs?si=QI0u6Ry2nK_Sp-8S
 
 
+GCMS未知物分析-定性（备份自用): 
+https://www.bilibili.com/video/BV1mP411y7xZ/
+
+
+
 
