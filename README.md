@@ -24,6 +24,6 @@ https://youtu.be/xTNTen6OUVs?si=QI0u6Ry2nK_Sp-8S
 GCMS未知物分析-定性（备份自用): 
 https://www.bilibili.com/video/BV1mP411y7xZ/
 
-
-
+安捷伦GCMS数据处理，气质数据批量检索，masshunter定量软件如何检索GCMS数据的化合物？未知化合物分析软件的使用
+https://www.bilibili.com/video/BV1zdpieDENV/
 
