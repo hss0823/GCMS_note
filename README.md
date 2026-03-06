@@ -29,3 +29,9 @@ https://www.bilibili.com/video/BV1zdpieDENV/
 
 
 2023 Mass Spec Summer School: https://youtube.com/playlist?list=PL24c3gIB4-uHQzgJv7ep2B7vfYGjLMUm5&si=7t6tfugKorZkqHbM
+
+
+
+Optimizing SPME for a Variety of Applications: https://www.youtube.com/watch?v=7KfYLO9KdAA
+
+
