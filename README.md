@@ -35,3 +35,4 @@ https://www.bilibili.com/video/BV1zdpieDENV/
 Optimizing SPME for a Variety of Applications: https://www.youtube.com/watch?v=7KfYLO9KdAA
 
 
+Working with Agilent MassHunter for GC/MS - A Brief Overview: http://inter.viewcentral.com/events/cust/catalog_detail.aspx?cid=agilent&pid=1&lid=1&tstamp=1773193255562&event_id=2529&schedule_id=0&applicationId=2&postingForm=catalog2.aspx&courseType=Self-paced&durationvalue=&durationtype=&training=&rIndex=0
